@@ -46,8 +46,8 @@ Similar to the web version, the mobile app includes core functionalities such as
 
 Here is a list of our main source code repositories:
 
-- **[kicks-shoes-web](https://github.com/kicks-labs/kicks-shoes-web)**: Repository for the E-commerce web platform built with ReactJS and NodeJS.
-- **[kicks-shoes-app](https://github.com/kicks-labs/kicks-shoes-app)**: Repository for the mobile application built with React Native and NodeJS.
+- **[kicks-shoes-web](https://github.com/kicks-labs/kicks-shoes-web](https://github.com/KickLabs/Kicks-Shoes))**: Repository for the E-commerce web platform built with ReactJS and NodeJS.
+- **[kicks-shoes-app](https://github.com/kicks-labs/kicks-shoes-app](https://github.com/KickLabs/Kicks-Shoes-App))**: Repository for the mobile application built with React Native and NodeJS.
 
 ---
 
@@ -63,4 +63,3 @@ This project is built and maintained by our dedicated team:
 | Nguyen Hue Suong   | [**@hyenaa404**](#)       |
 | Nguyen Trong Duy   | [**@duyntde180790**](#)   |
 
-<p align="right">(And many other wonderful contributions)</p>
